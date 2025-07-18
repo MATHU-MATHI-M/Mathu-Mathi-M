@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Mathu Mathi M
+##  Hi there! I'm Mathu Mathi M
 
 🎓 Currently a 3rd-year B.E. Computer Science Engineering student at **Kongu Engineering College**.  
 🧠 Passionate about Full Stack Development, Blockchain Integration, AI-based systems, and DevOps Automation.  
@@ -6,9 +6,7 @@
 
 🌐 [Visit My Portfolio →](https://portfolio-jeqg.onrender.com)
 
----
-
-### 🔧 Tech Stack
+### Tech Stack
 
 **💻 Languages:**  
 Python • Java • C • C++ • GoLang • JavaScript • TypeScript
@@ -28,11 +26,10 @@ Solidity • Ethereum ( Ganache) • IPFS
 **💡 Tools & Platforms:**  
 VS Code • Vercel • Render• Overleaf • Figma • Razorpay API
 
----
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🛠️ HireUs Freelancing Platform
+####  HireUs Freelancing Platform
 A decentralized freelance job portal built with full-stack tech and blockchain-based escrow payments.
 
 > Features:
@@ -43,9 +40,7 @@ A decentralized freelance job portal built with full-stack tech and blockchain-b
 
 **Tech:** React.js, Node.js, Solidity, MongoDB, Ganache, Razorpay API
 
----
-
-#### 🍳 Chefora – Recipe Finder App
+#### Chefora – Recipe Finder App
 A sleek full-stack recipe search platform deployed on Render.
 
 > Features:
@@ -55,9 +50,7 @@ A sleek full-stack recipe search platform deployed on Render.
 
 **Tech:** TypeScript, Next.js, MongoDB Atlas, Tailwind CSS
 
----
-
-#### 📰 Fake News Detection (AI Project)
+####Fake News Detection (AI Project)
 A machine learning project to classify fake vs. real news.
 
 > Features:
@@ -66,23 +59,19 @@ A machine learning project to classify fake vs. real news.
 
 **Tech:** Python, scikit-learn, pandas, Overleaf
 
----
 
-### 👀 I’m Currently Working On:
+### I’m Currently Working On:
 -StudAI intern project
 -Automatic code generator (website building application)
 -No code Web developement
 
----
 
-### 📫 Connect With Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+### Connect With Me:
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mathu-mathi-m-913a1427b/))
 - 🌐 [My Portfolio](https://portfolio-jeqg.onrender.com)
 - 📧 [Email](mathu9147@gmail.com)
-- 🧠 [LeetCode](https://leetcode.com/your-id)  
+- 🧠 [LeetCode](https://leetcode.com/u/Mathu_Mathi_M/)  
 - 🔗 [GitHub](https://github.com/MATHU-MATHI-M)
-
----
 
 > “Creativity + Code = Change.”  
 > Let’s build something amazing together!
