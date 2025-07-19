@@ -25,24 +25,24 @@
 💡 My mission is to merge **creativity with clean code** to build **impactful digital solutions**.  
 🌐 Check out my portfolio: [portfolio-jeqg.onrender.com](https://portfolio-jeqg.onrender.com)
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+###  Languages
 `Python` • `Java` • `C` • `C++` • `GoLang` • `JavaScript` • `TypeScript`
 
-### 🌐 Frontend
+###  Frontend
 `React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
 
-### 🛠️ Backend & DevOps
+###  Backend & DevOps
 `Node.js` • `Express.js` • `Flask` • `REST APIs` • `Docker` • `Git` • `GitHub` • `Postman`
 
-### 🗃️ Databases
+###  Databases
 `MongoDB Atlas` • `MySQL` • `PostgreSQL` • `Firebase`
 
-### 🔗 Blockchain
+###  Blockchain
 `Solidity` • `Ethereum (Ganache)` • `IPFS`
 
-### ⚙️ Tools & Platforms
+###  Tools & Platforms
 `VS Code` • `Vercel` • `Render` • `Overleaf` • `Figma` • `Razorpay API`
 
 ##  Featured Projects
@@ -69,7 +69,7 @@
 ##  Currently Working On
 
 - 🎓 **StudAI** intern project
--  🎓 **Inlighn Tech Pvt Ltd** intern project  
+- 🎓 **Inlighn Tech Pvt Ltd** intern project  
 - 🌐 **Auto Code Generator** for instant web apps  
 - 🧱 **No-code Web Development** platform
 
@@ -85,7 +85,6 @@
 
 > **“Creativity + Code = Change”**  
 > Let’s build something amazing together! 
-"""
 
 
 
