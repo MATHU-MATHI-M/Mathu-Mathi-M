@@ -1,78 +1,91 @@
-##  Hi there! I'm Mathu Mathi M
 
-🎓 Currently a 3rd-year B.E. Computer Science Engineering student at **Kongu Engineering College**.  
-🧠 Passionate about Full Stack Development, Blockchain Integration, AI-based systems, and DevOps Automation.  
-🌍 I’m on a journey to build impactful digital platforms — merging creativity and clean code.
+<div align="center">
 
-🌐 [Visit My Portfolio →](https://portfolio-jeqg.onrender.com)
-
-### Tech Stack
-
-**💻 Languages:**  
-Python • Java • C • C++ • GoLang • JavaScript • TypeScript
-
-**🌐 Frontend:**  
-React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
-
-**🛠️ Backend & DevOps:**  
-Node.js • Express.js • Flask • REST APIs • Docker • Git • GitHub • Postman
-
-**🗃️ Databases:**  
-MongoDB Atlas • MySQL • PostgreSQL • Firebase
-
-**🔗 Blockchain:**  
-Solidity • Ethereum ( Ganache) • IPFS
-
-**💡 Tools & Platforms:**  
-VS Code • Vercel • Render• Overleaf • Figma • Razorpay API
+<h1 style="font-size: 80px; font-weight: 600;">
+     Mathu Mathi M
+</h1>
 
 
-### Featured Projects
+<h2 style="font-size: 28px;"><b>Full Stack Developer | Blockchain Enthusiast | DevOps Learner</b></h2>
 
-####  HireUs Freelancing Platform
-A decentralized freelance job portal built with full-stack tech and blockchain-based escrow payments.
+<a href="https://portfolio-jeqg.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mathu-mathi-m-913a1427b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:mathu9147@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+<a href="https://github.com/MATHU-MATHI-M"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/Mathu_Mathi_M/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" /></a>
 
-> Features:
-- Profile & portfolio builder  
-- Gamification system: gems, coins, mentor unlock  
-- Smart contract (Solidity) escrow system  
-- Razorpay payment integration
+</div>
 
-**Tech:** React.js, Node.js, Solidity, MongoDB, Ganache, Razorpay API
+---
 
-#### Chefora – Recipe Finder App
-A sleek full-stack recipe search platform deployed on Render.
+##  About Me
 
-> Features:
+🎓 I'm currently a **3rd-year B.E. Computer Science Engineering** student at **Kongu Engineering College**.  
+🚀 Passionate about building full-stack platforms, decentralized applications, AI-driven tools, and automating workflows with DevOps.  
+💡 My mission is to merge **creativity with clean code** to build **impactful digital solutions**.  
+🌐 Check out my portfolio: [portfolio-jeqg.onrender.com](https://portfolio-jeqg.onrender.com)
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Python` • `Java` • `C` • `C++` • `GoLang` • `JavaScript` • `TypeScript`
+
+### 🌐 Frontend
+`React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
+
+### 🛠️ Backend & DevOps
+`Node.js` • `Express.js` • `Flask` • `REST APIs` • `Docker` • `Git` • `GitHub` • `Postman`
+
+### 🗃️ Databases
+`MongoDB Atlas` • `MySQL` • `PostgreSQL` • `Firebase`
+
+### 🔗 Blockchain
+`Solidity` • `Ethereum (Ganache)` • `IPFS`
+
+### ⚙️ Tools & Platforms
+`VS Code` • `Vercel` • `Render` • `Overleaf` • `Figma` • `Razorpay API`
+
+##  Featured Projects
+
+### 🔹 HireUs Freelancing Platform
+> A decentralized freelance job portal powered by full-stack technologies and blockchain escrow.
+
+- Profile & portfolio management  
+- Gamification: coins, gems, mentor unlocking  
+- Blockchain-based escrow payments  
+- Razorpay integration for real payments
+
+**Tech:** React.js • Node.js • MongoDB • Ganache • Solidity • Razorpay API  
+
+### 🔹 Chefora – Recipe Finder App
+> A sleek full-stack recipe search platform.
+
 - Food API integration  
-- Responsive recipe UI  
-- Type-safe backend with MongoDB
+- Responsive UI with advanced recipe search  
+- Deployed on Render
 
-**Tech:** TypeScript, Next.js, MongoDB Atlas, Tailwind CSS
+**Tech:** Next.js • TypeScript • MongoDB Atlas • Tailwind CSS  
 
-####Fake News Detection (AI Project)
-A machine learning project to classify fake vs. real news.
+##  Currently Working On
 
-> Features:
-- NLP-based classification  
-- Clean academic report in LaTeX
+- 🎓 **StudAI** intern project
+-  🎓 **Inlighn Tech Pvt Ltd** intern project  
+- 🌐 **Auto Code Generator** for instant web apps  
+- 🧱 **No-code Web Development** platform
 
-**Tech:** Python, scikit-learn, pandas, Overleaf
+##  Connect with Me
 
-
-### I’m Currently Working On:
--StudAI intern project
--Automatic code generator (website building application)
--No code Web developement
-
-
-### Connect With Me:
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mathu-mathi-m-913a1427b/))
-- 🌐 [My Portfolio](https://portfolio-jeqg.onrender.com)
-- 📧 [Email](mathu9147@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mathu-mathi-m-913a1427b/)
+- 🌐 [Portfolio](https://portfolio-jeqg.onrender.com)
+- 📧 [Email](mailto:mathu9147@gmail.com)
 - 🧠 [LeetCode](https://leetcode.com/u/Mathu_Mathi_M/)  
 - 🔗 [GitHub](https://github.com/MATHU-MATHI-M)
 
-> “Creativity + Code = Change.”  
-> Let’s build something amazing together!
+##  Quote
+
+> **“Creativity + Code = Change”**  
+> Let’s build something amazing together! 
+"""
+
+
 
